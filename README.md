@@ -8,3 +8,8 @@
 staticor/staticor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+
+it is fun, easy not easy.
+life in sg.
