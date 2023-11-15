@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @staticor
 - 👀 I’m interested in Spark and Scala...
-- 🌱 I’m currently learning .Spark and Scala..
+- 🌱 I’m currently working in Singapore as DE.
 - 💞️ I’m looking to collaborate on ...interesting things 
 - 📫 How to reach me ...   staticor@me.com
 
